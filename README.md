@@ -21,6 +21,5 @@ this web application project is the dApp developed to create the interface for o
 - providing secure P2P connection between parties using encryption
 
 
-
 ### Contributions
 if you are a developer and would like to contribute on this project take a look at our CONTRIBUTING guide.
